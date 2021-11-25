@@ -5,3 +5,4 @@ In my previous video we installed Raspberry Pi OS Lite on the new Raspberry Pi Z
 
 Mosquito MQTT Broker on Raspberry Pi Zero 2 W Using Cedalo Platform
 https://youtu.be/NlqEdrYfBQU
+![](https://github.com/ShotokuTech/M5Stace_Core_MQTT_Example/blob/main/cedalo.png)
